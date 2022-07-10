@@ -1,4 +1,0 @@
-## GrayBot Plugin
-ID : 3484951324004
-Name : ImageSearch
-Description : ImageSearch
