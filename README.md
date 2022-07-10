@@ -1,2 +1,2 @@
-# Java_QQ_bot
-A QQbot based on go-cqhttp, tomcat and Java.
+# Gray_bot
+A QQ bot based on go-cqhttp and Java.
