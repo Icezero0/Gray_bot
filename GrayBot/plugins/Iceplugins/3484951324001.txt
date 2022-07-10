@@ -1,4 +1,0 @@
-## GrayBot Plugin
-ID : 3484951324001
-Name : GrayTest
-Description : ¼ì²âÐ¡»Ò¹¤×÷×´Ì¬.
